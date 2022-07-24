@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Blurp Knock 1 Random Whacks and Hits 1.wav-2e8f486017759e215c5de266a98db3bf.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Blurp Knock 1 Random Whacks and Hits 1.wav"
+dest_files=[ "res://.import/Blurp Knock 1 Random Whacks and Hits 1.wav-2e8f486017759e215c5de266a98db3bf.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

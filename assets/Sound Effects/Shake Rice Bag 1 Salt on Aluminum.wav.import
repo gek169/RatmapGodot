@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Shake Rice Bag 1 Salt on Aluminum.wav-677aef261e6d2427f54d9f4f028beebc.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Shake Rice Bag 1 Salt on Aluminum.wav"
+dest_files=[ "res://.import/Shake Rice Bag 1 Salt on Aluminum.wav-677aef261e6d2427f54d9f4f028beebc.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

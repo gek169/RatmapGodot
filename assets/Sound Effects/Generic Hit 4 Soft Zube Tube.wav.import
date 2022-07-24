@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Generic Hit 4 Soft Zube Tube.wav-5e7ac0adb8dcdc4a7c5ebd146618580d.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Generic Hit 4 Soft Zube Tube.wav"
+dest_files=[ "res://.import/Generic Hit 4 Soft Zube Tube.wav-5e7ac0adb8dcdc4a7c5ebd146618580d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

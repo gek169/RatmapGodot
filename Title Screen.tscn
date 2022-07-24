@@ -1,0 +1,85 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://scripts/Title Screen.gd" type="Script" id=1]
+[ext_resource path="res://assets/Marius.ttf" type="DynamicFontData" id=2]
+[ext_resource path="res://assets/pdtextures/512x512/461223101.jpg" type="Texture" id=3]
+[ext_resource path="res://assets/Title Screen Font.tres" type="DynamicFont" id=4]
+
+[sub_resource type="DynamicFont" id=1]
+size = 80
+font_data = ExtResource( 2 )
+
+[node name="Control" type="MarginContainer"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Background" type="TextureRect" parent="."]
+margin_right = 1024.0
+margin_bottom = 600.0
+texture = ExtResource( 3 )
+expand = true
+stretch_mode = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+margin_right = 1024.0
+margin_bottom = 600.0
+
+[node name="Title" type="Label" parent="VBoxContainer"]
+margin_right = 1024.0
+margin_bottom = 90.0
+custom_fonts/font = SubResource( 1 )
+text = "Ratmap Romp"
+align = 1
+
+[node name="SpaceAfterTitle" type="VBoxContainer" parent="VBoxContainer"]
+margin_top = 94.0
+margin_right = 1024.0
+margin_bottom = 210.583
+rect_min_size = Vector2( 0, 116.583 )
+
+[node name="NewGameButtonTitle" type="Button" parent="VBoxContainer"]
+margin_top = 214.0
+margin_right = 1024.0
+margin_bottom = 299.0
+custom_colors/font_color_hover = Color( 1, 0.313726, 0.313726, 1 )
+custom_colors/font_color_pressed = Color( 1, 0, 0, 1 )
+custom_fonts/font = ExtResource( 4 )
+text = "New Game"
+flat = true
+
+[node name="LoadGameButtonTitle" type="Button" parent="VBoxContainer"]
+margin_top = 303.0
+margin_right = 1024.0
+margin_bottom = 388.0
+custom_colors/font_color_hover = Color( 0.6, 0.862745, 0.419608, 1 )
+custom_colors/font_color_pressed = Color( 0.12549, 1, 0, 1 )
+custom_fonts/font = ExtResource( 4 )
+text = "Load Game"
+flat = true
+
+[node name="Credits" type="Button" parent="VBoxContainer"]
+margin_top = 392.0
+margin_right = 1024.0
+margin_bottom = 477.0
+custom_fonts/font = ExtResource( 4 )
+text = "Credits"
+flat = true
+
+[node name="QuitButtonTitle" type="Button" parent="VBoxContainer"]
+margin_top = 481.0
+margin_right = 1024.0
+margin_bottom = 566.0
+custom_colors/font_color_hover = Color( 0.862745, 0.654902, 0.921569, 1 )
+custom_colors/font_color_pressed = Color( 0.933333, 0.0392157, 0.984314, 1 )
+custom_fonts/font = ExtResource( 4 )
+text = "Quit"
+flat = true
+
+[connection signal="pressed" from="VBoxContainer/NewGameButtonTitle" to="." method="_on_NewGameButtonTitle_pressed"]
+[connection signal="pressed" from="VBoxContainer/LoadGameButtonTitle" to="." method="_on_LoadGameButtonTitle_pressed"]
+[connection signal="pressed" from="VBoxContainer/Credits" to="." method="_on_Credits_pressed"]
+[connection signal="pressed" from="VBoxContainer/QuitButtonTitle" to="." method="_on_TitleQuitButton_pressed"]

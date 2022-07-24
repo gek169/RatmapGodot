@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Thud Click 5 Satisfying Random Whacks and Hits 1.wav-264966b5e47cb1d06ec44f89ea854fa3.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Thud Click 5 Satisfying Random Whacks and Hits 1.wav"
+dest_files=[ "res://.import/Thud Click 5 Satisfying Random Whacks and Hits 1.wav-264966b5e47cb1d06ec44f89ea854fa3.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

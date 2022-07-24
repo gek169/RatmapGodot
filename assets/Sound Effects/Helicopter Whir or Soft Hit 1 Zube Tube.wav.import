@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Helicopter Whir or Soft Hit 1 Zube Tube.wav-d87889524f4f112b4b97216fb62f714b.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Helicopter Whir or Soft Hit 1 Zube Tube.wav"
+dest_files=[ "res://.import/Helicopter Whir or Soft Hit 1 Zube Tube.wav-d87889524f4f112b4b97216fb62f714b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

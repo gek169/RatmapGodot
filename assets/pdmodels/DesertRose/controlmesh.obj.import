@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/controlmesh.obj-1c6948414b2552fd75467d00dd8f7fdc.mesh"
+
+[deps]
+
+files=[ "res://.import/controlmesh.obj-1c6948414b2552fd75467d00dd8f7fdc.mesh" ]
+
+source_file="res://assets/pdmodels/DesertRose/controlmesh.obj"
+dest_files=[ "res://.import/controlmesh.obj-1c6948414b2552fd75467d00dd8f7fdc.mesh", "res://.import/controlmesh.obj-1c6948414b2552fd75467d00dd8f7fdc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

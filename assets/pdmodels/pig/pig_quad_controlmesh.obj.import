@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pig_quad_controlmesh.obj-19c5aa5a7053a91d48d41c389fa408fd.mesh"
+
+[deps]
+
+files=[ "res://.import/pig_quad_controlmesh.obj-19c5aa5a7053a91d48d41c389fa408fd.mesh" ]
+
+source_file="res://assets/pdmodels/pig/pig_quad_controlmesh.obj"
+dest_files=[ "res://.import/pig_quad_controlmesh.obj-19c5aa5a7053a91d48d41c389fa408fd.mesh", "res://.import/pig_quad_controlmesh.obj-19c5aa5a7053a91d48d41c389fa408fd.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

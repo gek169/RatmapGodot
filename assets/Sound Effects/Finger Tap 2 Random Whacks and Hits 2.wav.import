@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Finger Tap 2 Random Whacks and Hits 2.wav-af5b02a7f8dcb67008c6f1ede4c280b2.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Finger Tap 2 Random Whacks and Hits 2.wav"
+dest_files=[ "res://.import/Finger Tap 2 Random Whacks and Hits 2.wav-af5b02a7f8dcb67008c6f1ede4c280b2.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

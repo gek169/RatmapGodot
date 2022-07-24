@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Tap Hit Glass Plastic Metal 1  Random Whacks and Hits 1.wav-1f8a322bba04d2b5d0853e49d3090845.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Tap Hit Glass Plastic Metal 1  Random Whacks and Hits 1.wav"
+dest_files=[ "res://.import/Tap Hit Glass Plastic Metal 1  Random Whacks and Hits 1.wav-1f8a322bba04d2b5d0853e49d3090845.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

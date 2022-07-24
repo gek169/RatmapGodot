@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Metal Hit 9 Random Whacks and Hits 2.wav-6c0bedb38cfc6217822f2fa6049d112e.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Metal Hit 9 Random Whacks and Hits 2.wav"
+dest_files=[ "res://.import/Metal Hit 9 Random Whacks and Hits 2.wav-6c0bedb38cfc6217822f2fa6049d112e.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Another Great Click 1 Zube Tube.wav-240e2029611a513ee93a0f4094df2dad.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Another Great Click 1 Zube Tube.wav"
+dest_files=[ "res://.import/Another Great Click 1 Zube Tube.wav-240e2029611a513ee93a0f4094df2dad.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Plastic Click Again Random Whacks and Hits 2.wav-2815bbc70f8556343904028ca091bd0f.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Plastic Click Again Random Whacks and Hits 2.wav"
+dest_files=[ "res://.import/Plastic Click Again Random Whacks and Hits 2.wav-2815bbc70f8556343904028ca091bd0f.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

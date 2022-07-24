@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Nail Gun or Stapler 1 Zube Tube.wav-d7abfd65a14cf0a2ccac3382c55083f3.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Nail Gun or Stapler 1 Zube Tube.wav"
+dest_files=[ "res://.import/Nail Gun or Stapler 1 Zube Tube.wav-d7abfd65a14cf0a2ccac3382c55083f3.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

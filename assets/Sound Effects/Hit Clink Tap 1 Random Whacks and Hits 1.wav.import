@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Hit Clink Tap 1 Random Whacks and Hits 1.wav-57aba49a6600073902d56a4400eabe71.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Hit Clink Tap 1 Random Whacks and Hits 1.wav"
+dest_files=[ "res://.import/Hit Clink Tap 1 Random Whacks and Hits 1.wav-57aba49a6600073902d56a4400eabe71.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

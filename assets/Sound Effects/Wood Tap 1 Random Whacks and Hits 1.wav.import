@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Wood Tap 1 Random Whacks and Hits 1.wav-4e02f29afe3ea255d4abf59d3419755f.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Wood Tap 1 Random Whacks and Hits 1.wav"
+dest_files=[ "res://.import/Wood Tap 1 Random Whacks and Hits 1.wav-4e02f29afe3ea255d4abf59d3419755f.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

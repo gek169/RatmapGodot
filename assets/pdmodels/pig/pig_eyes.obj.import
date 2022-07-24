@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pig_eyes.obj-e27b4fc19c09ed3f835d4f11b2d60c0c.mesh"
+
+[deps]
+
+files=[ "res://.import/pig_eyes.obj-e27b4fc19c09ed3f835d4f11b2d60c0c.mesh" ]
+
+source_file="res://assets/pdmodels/pig/pig_eyes.obj"
+dest_files=[ "res://.import/pig_eyes.obj-e27b4fc19c09ed3f835d4f11b2d60c0c.mesh", "res://.import/pig_eyes.obj-e27b4fc19c09ed3f835d4f11b2d60c0c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Metal Tink Hit 1 Random Whacks and Hits 2.wav-8b519d98cac9e744478093565d73e789.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Metal Tink Hit 1 Random Whacks and Hits 2.wav"
+dest_files=[ "res://.import/Metal Tink Hit 1 Random Whacks and Hits 2.wav-8b519d98cac9e744478093565d73e789.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

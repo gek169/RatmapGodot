@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/elephant_3d_model.obj-15e237c3c0d8ad913f7eb90d2d22c091.mesh"
+
+[deps]
+
+files=[ "res://.import/elephant_3d_model.obj-15e237c3c0d8ad913f7eb90d2d22c091.mesh" ]
+
+source_file="res://assets/pdmodels/elephant_3d_model.obj"
+dest_files=[ "res://.import/elephant_3d_model.obj-15e237c3c0d8ad913f7eb90d2d22c091.mesh", "res://.import/elephant_3d_model.obj-15e237c3c0d8ad913f7eb90d2d22c091.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

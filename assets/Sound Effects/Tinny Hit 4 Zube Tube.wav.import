@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Tinny Hit 4 Zube Tube.wav-c612757166aa6acfe23e7bc30dec2dba.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Tinny Hit 4 Zube Tube.wav"
+dest_files=[ "res://.import/Tinny Hit 4 Zube Tube.wav-c612757166aa6acfe23e7bc30dec2dba.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

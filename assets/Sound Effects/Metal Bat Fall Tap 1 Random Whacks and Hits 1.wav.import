@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Metal Bat Fall Tap 1 Random Whacks and Hits 1.wav-1ddf91a4c8f94ac97cdfee377a4a3519.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Metal Bat Fall Tap 1 Random Whacks and Hits 1.wav"
+dest_files=[ "res://.import/Metal Bat Fall Tap 1 Random Whacks and Hits 1.wav-1ddf91a4c8f94ac97cdfee377a4a3519.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

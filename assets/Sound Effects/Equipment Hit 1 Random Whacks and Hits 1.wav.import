@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Equipment Hit 1 Random Whacks and Hits 1.wav-ffc5e872204dbf5217bfb156f337098a.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Equipment Hit 1 Random Whacks and Hits 1.wav"
+dest_files=[ "res://.import/Equipment Hit 1 Random Whacks and Hits 1.wav-ffc5e872204dbf5217bfb156f337098a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

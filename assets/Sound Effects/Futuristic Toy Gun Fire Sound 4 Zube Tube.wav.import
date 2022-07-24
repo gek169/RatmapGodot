@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Futuristic Toy Gun Fire Sound 4 Zube Tube.wav-6ea43fc96852c8e85f05a7a18b0340a2.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Futuristic Toy Gun Fire Sound 4 Zube Tube.wav"
+dest_files=[ "res://.import/Futuristic Toy Gun Fire Sound 4 Zube Tube.wav-6ea43fc96852c8e85f05a7a18b0340a2.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

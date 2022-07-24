@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pig_tongue.obj-e9bd55bf2efc0001ce933fa068c3e1fa.mesh"
+
+[deps]
+
+files=[ "res://.import/pig_tongue.obj-e9bd55bf2efc0001ce933fa068c3e1fa.mesh" ]
+
+source_file="res://assets/pdmodels/pig/pig_tongue.obj"
+dest_files=[ "res://.import/pig_tongue.obj-e9bd55bf2efc0001ce933fa068c3e1fa.mesh", "res://.import/pig_tongue.obj-e9bd55bf2efc0001ce933fa068c3e1fa.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

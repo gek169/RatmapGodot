@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Soft Blurp Hit 1 Zube Tube.wav-720fac80908db1b361653e6ad3048b47.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Soft Blurp Hit 1 Zube Tube.wav"
+dest_files=[ "res://.import/Soft Blurp Hit 1 Zube Tube.wav-720fac80908db1b361653e6ad3048b47.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Metal Chainlink Tap Extra Ringy 1 Random Whacks and Hits 1.wav-fc3296bfe3152a55b1035a9dc9efd5e5.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Metal Chainlink Tap Extra Ringy 1 Random Whacks and Hits 1.wav"
+dest_files=[ "res://.import/Metal Chainlink Tap Extra Ringy 1 Random Whacks and Hits 1.wav-fc3296bfe3152a55b1035a9dc9efd5e5.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

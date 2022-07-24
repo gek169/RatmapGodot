@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Tiny Click 8 Random Whacks and Hits 1.wav-c2626e8559b4e0b4a9a5a7816c4c97bf.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Tiny Click 8 Random Whacks and Hits 1.wav"
+dest_files=[ "res://.import/Tiny Click 8 Random Whacks and Hits 1.wav-c2626e8559b4e0b4a9a5a7816c4c97bf.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Beat 2 Zube Tube.wav-9442c8cdfa7ef20c00be30f3ebe8b48b.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Beat 2 Zube Tube.wav"
+dest_files=[ "res://.import/Beat 2 Zube Tube.wav-9442c8cdfa7ef20c00be30f3ebe8b48b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Knife Scrape 1 Random Whacks and Hits 1.wav-e5d3b0709fda83842d7a0cbf1d40f785.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Knife Scrape 1 Random Whacks and Hits 1.wav"
+dest_files=[ "res://.import/Knife Scrape 1 Random Whacks and Hits 1.wav-e5d3b0709fda83842d7a0cbf1d40f785.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

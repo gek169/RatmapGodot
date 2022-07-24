@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Echoy Ball Hit 1 Zube Tube.wav-b27320f2ffd412838346228508ae611f.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Echoy Ball Hit 1 Zube Tube.wav"
+dest_files=[ "res://.import/Echoy Ball Hit 1 Zube Tube.wav-b27320f2ffd412838346228508ae611f.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

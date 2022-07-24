@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Whack Tangerine Springy Tinny 1 Zube Tube.wav-5bc7187fc805e0bdf7b5024006dae75d.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Whack Tangerine Springy Tinny 1 Zube Tube.wav"
+dest_files=[ "res://.import/Whack Tangerine Springy Tinny 1 Zube Tube.wav-5bc7187fc805e0bdf7b5024006dae75d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

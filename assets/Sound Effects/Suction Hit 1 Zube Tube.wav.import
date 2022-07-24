@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Suction Hit 1 Zube Tube.wav-600df8d300d9c0be6d21709c630723c6.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Suction Hit 1 Zube Tube.wav"
+dest_files=[ "res://.import/Suction Hit 1 Zube Tube.wav-600df8d300d9c0be6d21709c630723c6.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

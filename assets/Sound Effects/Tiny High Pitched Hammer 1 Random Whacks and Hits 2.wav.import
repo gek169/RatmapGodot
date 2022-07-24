@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Tiny High Pitched Hammer 1 Random Whacks and Hits 2.wav-e0ebc883079b4ece2ba5540689d6a715.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Tiny High Pitched Hammer 1 Random Whacks and Hits 2.wav"
+dest_files=[ "res://.import/Tiny High Pitched Hammer 1 Random Whacks and Hits 2.wav-e0ebc883079b4ece2ba5540689d6a715.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

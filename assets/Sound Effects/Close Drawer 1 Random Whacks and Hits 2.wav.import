@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Close Drawer 1 Random Whacks and Hits 2.wav-6ce441948a7a154d1723b28e68c99256.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Close Drawer 1 Random Whacks and Hits 2.wav"
+dest_files=[ "res://.import/Close Drawer 1 Random Whacks and Hits 2.wav-6ce441948a7a154d1723b28e68c99256.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

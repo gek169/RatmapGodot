@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Metal Chainlink Type Click 2 Random Whacks and Hits 1.wav-a22f689acbc4c7a9136ddaf0ffa98271.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Metal Chainlink Type Click 2 Random Whacks and Hits 1.wav"
+dest_files=[ "res://.import/Metal Chainlink Type Click 2 Random Whacks and Hits 1.wav-a22f689acbc4c7a9136ddaf0ffa98271.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

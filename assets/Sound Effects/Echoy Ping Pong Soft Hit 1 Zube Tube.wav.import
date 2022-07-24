@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Echoy Ping Pong Soft Hit 1 Zube Tube.wav-ec64d203026a5c700be36de16c586651.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Echoy Ping Pong Soft Hit 1 Zube Tube.wav"
+dest_files=[ "res://.import/Echoy Ping Pong Soft Hit 1 Zube Tube.wav-ec64d203026a5c700be36de16c586651.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Old Mouse Click 1 Random Whacks and Hits 2.wav-2550fc18ca1fffdd04c5b53bbd0460ff.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Old Mouse Click 1 Random Whacks and Hits 2.wav"
+dest_files=[ "res://.import/Old Mouse Click 1 Random Whacks and Hits 2.wav-2550fc18ca1fffdd04c5b53bbd0460ff.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

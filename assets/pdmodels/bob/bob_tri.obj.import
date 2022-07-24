@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bob_tri.obj-67f659f8398488e8f06894502d2eb93b.mesh"
+
+[deps]
+
+files=[ "res://.import/bob_tri.obj-67f659f8398488e8f06894502d2eb93b.mesh" ]
+
+source_file="res://assets/pdmodels/bob/bob_tri.obj"
+dest_files=[ "res://.import/bob_tri.obj-67f659f8398488e8f06894502d2eb93b.mesh", "res://.import/bob_tri.obj-67f659f8398488e8f06894502d2eb93b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

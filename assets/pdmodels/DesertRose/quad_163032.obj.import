@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/quad_163032.obj-b18ec5c2240a7e1ba54af0943ffca6c8.mesh"
+
+[deps]
+
+files=[ "res://.import/quad_163032.obj-b18ec5c2240a7e1ba54af0943ffca6c8.mesh" ]
+
+source_file="res://assets/pdmodels/DesertRose/quad_163032.obj"
+dest_files=[ "res://.import/quad_163032.obj-b18ec5c2240a7e1ba54af0943ffca6c8.mesh", "res://.import/quad_163032.obj-b18ec5c2240a7e1ba54af0943ffca6c8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

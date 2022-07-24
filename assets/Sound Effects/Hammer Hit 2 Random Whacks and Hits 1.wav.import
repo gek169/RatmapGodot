@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Hammer Hit 2 Random Whacks and Hits 1.wav-3f06b501947c0268a458f41ecb499e70.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Hammer Hit 2 Random Whacks and Hits 1.wav"
+dest_files=[ "res://.import/Hammer Hit 2 Random Whacks and Hits 1.wav-3f06b501947c0268a458f41ecb499e70.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

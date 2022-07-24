@@ -1,0 +1,6 @@
+[gd_scene format=2]
+
+[node name="Button" type="CheckBox"]
+margin_right = 739.0
+margin_bottom = 65.0
+text = "Move Selected Nodes In Front of Camera"

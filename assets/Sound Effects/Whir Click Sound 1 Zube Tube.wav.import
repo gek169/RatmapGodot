@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Whir Click Sound 1 Zube Tube.wav-90ad2a75c26e12d46ec19649270358ac.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Whir Click Sound 1 Zube Tube.wav"
+dest_files=[ "res://.import/Whir Click Sound 1 Zube Tube.wav-90ad2a75c26e12d46ec19649270358ac.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

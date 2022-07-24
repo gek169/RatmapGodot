@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Tiny Click 7 Zube Tube.wav-1440ac07ace2405986089be2757c7f2f.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Tiny Click 7 Zube Tube.wav"
+dest_files=[ "res://.import/Tiny Click 7 Zube Tube.wav-1440ac07ace2405986089be2757c7f2f.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

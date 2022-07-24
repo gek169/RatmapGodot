@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Half a Cave Ambient Sound 1 Zube Tube.wav-d0d714d41ac4aa8ba8d509ffdb814ba9.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Half a Cave Ambient Sound 1 Zube Tube.wav"
+dest_files=[ "res://.import/Half a Cave Ambient Sound 1 Zube Tube.wav-d0d714d41ac4aa8ba8d509ffdb814ba9.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

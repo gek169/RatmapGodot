@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Ping Pong Soft Hit 2 Zube Tube.wav-a77367629f5879e7b05925792f1457e0.sample"
+
+[deps]
+
+source_file="res://assets/Sound Effects/Ping Pong Soft Hit 2 Zube Tube.wav"
+dest_files=[ "res://.import/Ping Pong Soft Hit 2 Zube Tube.wav-a77367629f5879e7b05925792f1457e0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
