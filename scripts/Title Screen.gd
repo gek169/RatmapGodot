@@ -18,7 +18,7 @@ func _on_LoadGameButtonTitle_pressed():
 
 
 func _on_NewGameButtonTitle_pressed():
-	pass # Replace with function body.
+	get_tree().change_scene("res://New_Game.tscn")
 	#TODO: Create new game configuration screen.
 
 

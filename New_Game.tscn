@@ -1,0 +1,65 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://New_Game.gd" type="Script" id=1]
+[ext_resource path="res://assets/pdtextures/1024x1024/461223124.jpg" type="Texture" id=2]
+[ext_resource path="res://assets/Title Screen Font.tres" type="DynamicFont" id=3]
+[ext_resource path="res://assets/Marius.ttf" type="DynamicFontData" id=4]
+
+[sub_resource type="DynamicFont" id=1]
+size = 80
+font_data = ExtResource( 4 )
+
+[node name="Control" type="MarginContainer"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+
+[node name="TextureRect" type="TextureRect" parent="."]
+margin_right = 1024.0
+margin_bottom = 600.0
+texture = ExtResource( 2 )
+expand = true
+
+[node name="Stuffcontainer" type="ScrollContainer" parent="."]
+margin_right = 1024.0
+margin_bottom = 600.0
+
+[node name="VB" type="VBoxContainer" parent="Stuffcontainer"]
+margin_right = 1024.0
+margin_bottom = 600.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+custom_constants/separation = 0
+alignment = 1
+
+[node name="Toptext" type="Label" parent="Stuffcontainer/VB"]
+margin_top = 212.0
+margin_right = 1024.0
+margin_bottom = 302.0
+grow_horizontal = 0
+grow_vertical = 0
+custom_fonts/font = SubResource( 1 )
+text = "Choose Level"
+align = 1
+
+[node name="Copyme" type="Button" parent="Stuffcontainer/VB"]
+visible = false
+margin_right = 520.0
+margin_bottom = 85.0
+custom_colors/font_color_hover = Color( 0.862745, 0.654902, 0.921569, 1 )
+custom_colors/font_color_pressed = Color( 0.933333, 0.0392157, 0.984314, 1 )
+custom_fonts/font = ExtResource( 3 )
+text = "Not_to_be_seen"
+flat = true
+
+[node name="Back" type="Button" parent="Stuffcontainer/VB"]
+margin_top = 302.0
+margin_right = 1024.0
+margin_bottom = 387.0
+custom_colors/font_color_hover = Color( 0.862745, 0.654902, 0.921569, 1 )
+custom_colors/font_color_pressed = Color( 0.933333, 0.0392157, 0.984314, 1 )
+custom_fonts/font = ExtResource( 3 )
+text = "Back"
+flat = true
+
+[connection signal="pressed" from="Stuffcontainer/VB/Back" to="." method="onBackButtonPressed"]

@@ -1,0 +1,20 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://levels/TestRoom/Room Geom.tscn" type="PackedScene" id=2]
+[ext_resource path="res://3dCC.tscn" type="PackedScene" id=3]
+[ext_resource path="res://assets/Shadow_Testing_Cube.tscn" type="PackedScene" id=8]
+
+[node name="TestRoom" type="Spatial"]
+
+[node name="3dCC" parent="." instance=ExtResource( 3 )]
+transform = Transform( 5.96046e-08, 0, 1, 0, 1, 0, -1, 0, 5.96046e-08, 0, 45.3679, 128.905 )
+
+[node name="Shadow_Testing_Cube" parent="." groups=["Saved"] instance=ExtResource( 8 )]
+mass = 60.7643
+
+[node name="Shadow_Testing_Cube2" parent="." groups=["Saved"] instance=ExtResource( 8 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -12, 43, 134.759 )
+input_capture_on_drag = true
+mass = 60.7643
+
+[node name="Room Geom" parent="." groups=["Saved"] instance=ExtResource( 2 )]

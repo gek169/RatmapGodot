@@ -1,10 +1,11 @@
-[gd_scene load_steps=63 format=2]
+[gd_scene load_steps=64 format=2]
 
 [ext_resource path="res://levels/TestRoom/Closet_Testroom_Walls.tres" type="Material" id=1]
 [ext_resource path="res://levels/TestRoom/WindowSill_TestRoom_Material.tres" type="Material" id=2]
 [ext_resource path="res://levels/TestRoom/Closet_Testroom_Bookshelf_Wood.tres" type="Material" id=3]
 [ext_resource path="res://levels/TestRoom/Floor_Testroom_2.tres" type="Material" id=4]
 [ext_resource path="res://levels/TestRoom/Wall_Testroom_Material.tres" type="Material" id=5]
+[ext_resource path="res://Environments/Day_1.tres" type="Environment" id=6]
 
 [sub_resource type="CubeMesh" id=5]
 lightmap_size_hint = Vector2( 2048, 2048 )
@@ -204,6 +205,21 @@ radius = 1.02942
 height = 31.0966
 
 [node name="Room Geom" type="Node"]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = ExtResource( 6 )
+
+[node name="Juliet" type="DirectionalLight" parent="."]
+transform = Transform( 1, 0, 0, 0, 0.801901, 0.597457, 0, -0.597457, 0.801901, 0, 114, 174 )
+light_bake_mode = 2
+shadow_enabled = true
+shadow_bias = 1.0
+directional_shadow_split_1 = 0.2
+directional_shadow_split_2 = 0.479
+directional_shadow_split_3 = 0.895
+directional_shadow_blend_splits = true
+directional_shadow_normal_bias = 1.0
+directional_shadow_max_distance = 348.0
 
 [node name="MainRoomWalls" type="Node" parent="."]
 
