@@ -74,13 +74,12 @@ func save_game(var savename: String):
 				node_data["angular_velocity.x"] = node.angular_velocity.x
 				node_data["angular_velocity.y"] = node.angular_velocity.y
 				node_data["angular_velocity.z"] = node.angular_velocity.z
-		# Call the node's save function.
-		
-
 		# Store the save dictionary as a new line in the save file.
 		save_game.store_line(to_json(node_data))
 	save_game.close()
-	
+
+
+
 func load_game(var savename: String):
 	set_process(true)
 	var save_meta = File.new()
@@ -156,7 +155,7 @@ func inner_load_game():
 				new_object.linear_velocity.z = node_data["linear_velocity.z"]
 			if new_object.get("angular_velocity") is Vector3:
 				new_object.angular_velocity.x = node_data["angular_velocity.x"]
-				new_object.angular_velocity.y = node_data["angular_velocity.y"] 
+				new_object.angular_velocity.y = node_data["angular_velocity.y"]
 				new_object.angular_velocity.z = node_data["angular_velocity.z"]
 			#TODO: Guess parameters.
 	save_game.close()
