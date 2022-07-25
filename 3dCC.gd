@@ -25,7 +25,7 @@ export var gravity: float = -10
 export var max_fall_speed: float = -40
 export var collision_impulse_force: float = 0.1
 #^ Mass used for calculating our effect on other objects
-export var receiving_collision_impulse_mass: float = 100
+export var receiving_collision_impulse_mass: float = 10
 export var friction = 1.15
 export var max_climb_angle = .6
 export var angle_of_freedom = 85
