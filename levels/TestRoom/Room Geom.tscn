@@ -204,7 +204,7 @@ metallic_specular = 0.75
 radius = 1.02942
 height = 31.0966
 
-[node name="Room Geom" type="Node"]
+[node name="Room Geom" type="Node" groups=["Saved"]]
 
 [node name="WorldEnvironment" type="WorldEnvironment" parent="."]
 environment = ExtResource( 6 )

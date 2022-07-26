@@ -9,7 +9,7 @@ albedo_color = Color( 0.152941, 0.505882, 0.0470588, 1 )
 [sub_resource type="BoxShape" id=57]
 extents = Vector3( 0.5, 0.5, 0.5 )
 
-[node name="Shadow_Testing_Cube" type="RigidBody" groups=["friend"]]
+[node name="Shadow_Testing_Cube" type="RigidBody" groups=["Saved"]]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -12, 43, 131 )
 collision_mask = 3
 mass = 50.0
